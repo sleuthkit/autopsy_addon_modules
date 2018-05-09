@@ -1,0 +1,6 @@
+- __Description:__ Autopsy File Ingest Module to check file hashes against online VirusTotal Database
+- __Author:__ Mathias Vetsch, Luca Tannler
+- __Minimum Autopsy version:__ 4.1.0
+- __Requirements:__ API Key which can obtained on https://www.virustotal.com/en/documentation/public-api/
+- __Source Code:__ https://github.com/mvetsch/VirusTotalOnlineChecker
+- __License:__ GNU GENERAL PUBLIC LICENSE
