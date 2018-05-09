@@ -1,0 +1,3 @@
+[submodule "ReportModules/FEA-Forensic_Enhanced_Analysis/fea-forensics-enhanced-analysis"]
+	path = ReportModules/FEA-Forensic_Enhanced_Analysis/fea-forensics-enhanced-analysis
+	url = https://bitbucket.org/psychodeath/fea-forensics-enhanced-analysis
