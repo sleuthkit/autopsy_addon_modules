@@ -1,0 +1,6 @@
+- __Description:__ Content viewer for dozens of file types: html, pdf, eml, emlx, rtf, doc, docx, xls, xlsx, ppt, pptx, odt, ods, odp, wps, wpd, sxw, eps, dbf, csv, tif, emf, wmf, odg, pcx, pbm, svg, pict, vsd, psd, cdr, dxf, and more. Also highlights and enables navigation through keyword hits on the rendered preview.
+- __Author:__ Luis Filipe Nassif
+- __Minimum Autopsy version:__ 3.1
+- __Module Location__: https://github.com/lfcnassif/MultiContentViewer/releases
+- __Source Code:__ https://github.com/lfcnassif/MultiContentViewer
+- __License:__ LGPL v3.0
