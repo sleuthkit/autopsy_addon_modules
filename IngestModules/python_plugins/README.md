@@ -1,16 +1,16 @@
-# Autopsy Plugins
-
-#### Introduction
-
-In this repository you will find some Autopsy (https://www.sleuthkit.org/autopsy/) Python Plugins. 
-
-If you have any questions/comments/suggestions please feel free to let me know. Thanks.
-
-
-#### Install
-		
-- You can download the scripts you like and place them in %appdata%\Autopsy\python_modules\.
- - Reload Autopsy
- - Open/Create a case and add a source
- - You will find the added modules under the menu Tools\Run Ingest Modules\(ImageFileName)
- 
+- __Description:__ These are plugins that were developed for various artifacts which include:
+	- Connected iPhones (Connected iPhone Analyzer)
+	- Skype (Skype Analyzer)
+	- IE Tiles
+	- Google Drive
+	- Google Chrome Saved Passwords Identifier
+	- Windows Communication App Contact Extractor
+- __Author:__ Tom Van der Mussele
+- __Minimum Autopsy version:__ 4.3.0
+- __Source Code:__ https://github.com/tomvandermussele/autopsy-plugins
+- __License:__ GNU General Public License Version 3.
+- __Instructions:__
+	- You can download the scripts you like and place them in %appdata%\Autopsy\python_modules\.
+ 	- Reload Autopsy
+ 	- Open/Create a case and add a source
+ 	- You will find the added modules under the menu Tools\Run Ingest Modules\(ImageFileName)
