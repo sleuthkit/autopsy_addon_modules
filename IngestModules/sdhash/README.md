@@ -1,0 +1,5 @@
+- __Description:__ This module allows you to use sdhash to perform fuzzy hash matching. The investigator can match files against other files or sdhash reference sets during ingest, or search for similar files from the directory viewer or search results after ingest. Released as part of OSDFCon 2013 Development contest.
+- __Author:__ Petter Bjelland
+- __Minimum Autopsy version:__ 3.0.7
+- __Source Code:__ https://github.com/pcbje/autopsy-ahbm
+- __License:__ Apache 2.0

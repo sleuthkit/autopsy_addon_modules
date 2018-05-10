@@ -1,0 +1,5 @@
+- __Description:__ The plugin will extract the services and contacts from the Windows Communication Application (microsoft.windowscommunicationsapps).
+- __Author:__ Tom Van der Mussele
+- __Minimum Autopsy version:__ 4.3.0
+- __Source Code:__ https://github.com/tomvandermussele/autopsy-plugins/tree/master/Windows%20Communication%20App
+- __License:__ GNU General Public License Version 3

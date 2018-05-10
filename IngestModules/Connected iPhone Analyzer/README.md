@@ -1,0 +1,5 @@
+- __Description:__ The plugin will investigate .plist files related to iTunes backups within a Windows environment. This could be an indicator of connected devices to a Windows environment. In order to connect and backup an iPhone, typically a passcode or fingerprint is required which could change the value of reliability as evidence.
+- __Author:__ Tom Van der Mussele
+- __Minimum Autopsy version:__ 4.3.0
+- __Source Code:__ https://github.com/tomvandermussele/autopsy-plugins/tree/master/Connected%20iPhone%20Analyzer
+- __License:__ GNU General Public License Version 3

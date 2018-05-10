@@ -1,0 +1,5 @@
+- __Description:__ An ingest module that extracts Registry keys and values into derived directories and files so that they show up as nodes in the directory tree. First place winner in the OSDFCon 2013 challenge.
+- __Author:__ Willi Ballenthin
+- __Minimum Autopsy version:__ 3.0.7
+- __Source Code:__ https://github.com/williballenthin/Autopsy-WindowsRegistryIngestModule
+- __License:__ Apache 2.0

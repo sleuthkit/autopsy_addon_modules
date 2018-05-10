@@ -1,0 +1,5 @@
+- __Description:__ The plugin will investigate investigate Google Drive snapshot databases and list filenames with full path.
+- __Author:__ Tom Van der Mussele
+- __Minimum Autopsy version:__ 4.3.0
+- __Source Code:__ https://github.com/tomvandermussele/autopsy-plugins/tree/master/GoogleDrive
+- __License:__ GNU General Public License Version 3

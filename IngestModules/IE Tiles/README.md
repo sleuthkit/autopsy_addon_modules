@@ -1,0 +1,5 @@
+- __Description:__ The plugin will enumerate Internet Explorer Tiles
+- __Author:__ Tom Van der Mussele
+- __Minimum Autopsy version:__ 4.3.0
+- __Source Code:__ https://github.com/tomvandermussele/autopsy-plugins/tree/master/IE%20Tiles
+- __License:__ GNU General Public License Version 3
