@@ -1,0 +1,9 @@
+- __Description:__ The plugin will investifate Skype databases within a Windows environment and extract information such as:
+	- Call data
+	- IP Address
+	- Chats
+	- Names
+- __Author:__ Tom Van der Mussele
+- __Minimum Autopsy version:__ 4.3.0
+- __Source Code:__ https://github.com/tomvandermussele/autopsy-plugins/tree/master/Skype%20Analyzer
+- __License:__ GNU General Public License Version 3

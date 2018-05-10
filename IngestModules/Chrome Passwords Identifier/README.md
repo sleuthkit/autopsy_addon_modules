@@ -1,0 +1,5 @@
+- __Description:__ The plugin will go through identified Chrome Password Databases and extract certain artifacts. This can demonstrate knowledge and help in triaging.
+- __Author:__ Tom Van der Mussele
+- __Minimum Autopsy version:__ 4.3.0
+- __Source Code:__ https://github.com/tomvandermussele/autopsy-plugins/tree/master/Chrome%20Passwords%20Identifier
+- __License:__ GNU General Public License Version 3
