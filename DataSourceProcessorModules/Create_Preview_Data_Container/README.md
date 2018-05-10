@@ -1,0 +1,7 @@
+- __Description:__ This plugin will create a VHD file and extract predefined files to the VHD for later analysis. 
+- __Author:__ Mark McKinnon - Mark dot McKinnon at Gmail dot Com
+- __Minimum Autopsy version:__ 4.1.0
+- __Module Location__: Python module folder
+- __Website:__ https://medium.com/@markmckinnon_80619/acreating-a-data-preview-container-in-autopsy-afbdf776d7c4.
+- __Source Code:__ Here or https://github.com/markmckinnon/Autopsy-Plugins/tree/master/Create_Preview_Data_Container
+- __License:__ GPL Full license can be found in Create_Preview_Data_Container_py_GPL_License.txt 
