@@ -1,0 +1,4 @@
+[autorun]
+OPEN=Explorer.exe Index.htm
+ICON=res\brasao.ico
+

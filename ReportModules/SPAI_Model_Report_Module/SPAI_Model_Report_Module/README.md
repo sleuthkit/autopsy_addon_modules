@@ -1,0 +1,7 @@
+- __Description:__ Custom Report Module Created for The DGPTC - Technical Police.
+- __Author:__ Mark McKinnon (Mark dot McKinnon at Gmail dot Com)
+- __Minimum Autopsy version:__ 4.1.0
+- __Module Location__: Here
+- __Website:__ https://github.com/markmckinnon/Custom_Autopsy_Plugins/tree/master/Report_Modules/SPAI_Model_Report_Module
+- __Source Code:__ Here or https://github.com/markmckinnon/Custom_Autopsy_Plugins/tree/master/Report_Modules/SPAI_Model_Report_Module
+- __License:__  GPL Full license can be found in SPAIModelReportModule_py_GPL_License.txt
