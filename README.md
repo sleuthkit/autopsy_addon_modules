@@ -1,21 +1,22 @@
-# autopsy_addon_modules
+# Autopsy 3rd Party Module Repository
 
-This repository contains the add-on modules that are available for Autopsy. 
+This repository contains the 3rd party Autopsy add-on modules.  You have two choices for using it.
 
-Instructions for using this site:
-- Review the list of modules and their brief description below to identify which are relevant. 
-- Most of the modules are located in this repository.  You can get them by downloading the repository by clicking on "Clone or download" and then "Download ZIP. (or, you can download an individual NBM if you navigate to it). 
-![Download Image](images/download.png)
-- Some developers host the module on thier website and you need to follow the link in the README.md file. 
-- Install the module into Autopsy.
--- TODO: Provide a link to instructions for doing this
+1. Make a copy of this repository by downloading a ZIP file of it.  You can do this by clicking on "Clone or download" and then "Download ZIP. 
+![Download Image](images/download.png) 
 
+2. You can download specific modules from the site.  This is easier for Java NBM modules than it is for Python modules, which may contain a number of files. 
 
-# Modules
+The modules are organized by their type. 
+- Ingest modules analyze files as they are added to the case.  This is most common type of module.
+- Content viewer modules are in the lower right corner of Autopsy and they display a file or selected item in some way.
+- Report modules run at the end of the analysis and can generate various types of reports (or can do various types of analysis).
+- Data source processors allow for different types of data sources to be added to a case. 
 
+Each module has its ownn folder with a README.md file that outlines the basics of what the module does. 
 
+Instructions for installing a module can be found here: http://sleuthkit.org/autopsy/docs/user-docs/4.9.0/module_install_page.html
 
-This replaces the wiki page that was here: http://wiki.sleuthkit.org/index.php?title=Autopsy_3rd_Party_Modules
-
+NOTE: This replaces the wiki page that was here: http://wiki.sleuthkit.org/index.php?title=Autopsy_3rd_Party_Modules
 
 [Instructions for Developers](DocsForDevelopers/DeveloperInstructions.md)
