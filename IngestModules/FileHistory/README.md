@@ -1,0 +1,8 @@
+- __Description:__ This plugin will parse windows file history database. 
+- __Author:__ Mark McKinnon - Mark dot McKinnon at Gmail dot Com
+- __Minimum Autopsy version:__ 4.1.0
+- __Module Location__: Python module folder
+- __OS's supported on: Windows, Linux
+- __Website:__ https://medium.com/@markmckinnon_80619/windows-file-history-plugin-a6208da4efa5
+- __Source Code:__ Here or https://github.com/markmckinnon/Autopsy-Plugins/tree/master/FileHistory
+- __License:__ GPL Full license can be found in Parse_FileHistory_py_GPL_License.txt 

@@ -1,7 +1,0 @@
-- __Description:__ This plugin will parse the Amazon Echosystem databases. 
-- __Author:__ Mark McKinnon - Mark dot McKinnon at Gmail dot Com
-- __Minimum Autopsy version:__ 4.1.0
-- __Module Location__: Python module folder
-- __Website:__ http://www.osdfcon.org/presentations/2017/Moran_Hyde-Alexa-are-you-skynet.pdf
-- __Source Code:__ Here or https://github.com/markmckinnon/Autopsy-Plugins/tree/master/Amazon_Echosystem_Parser
-- __License:__ GPL Full license can be found in Amazon_Echosystem_Parser_py_GPL_License.txt 
