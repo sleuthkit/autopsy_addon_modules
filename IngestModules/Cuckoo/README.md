@@ -1,0 +1,8 @@
+- __Description:__ This plugin will send files to a cuckoo box. 
+- __Author:__ Mark McKinnon - Mark dot McKinnon at Gmail dot Com
+- __Minimum Autopsy version:__ 4.1.0
+- __OS's supported on: Windows
+- __Module Location__: https://github.com/markmckinnon/Autopsy-Plugins/tree/master/Cuckoo
+- __Website:__ https://medium.com/@markmckinnon_80619/im-cuckoo-for-autopsy-733762a689ef
+- __Source Code:__ https://github.com/markmckinnon/Autopsy-Plugins/tree/master/Cuckoo
+- __License:__ GNU General Public License Version 3

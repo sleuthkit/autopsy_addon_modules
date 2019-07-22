@@ -1,0 +1,8 @@
+- __Description:__ Create a hashset of a data source, the hashset is stored in the case export directory.  The datasource must be hashed prior to running this plugin.  The hashset can then be brought back into Autopsy.
+- __Author:__ Mark McKinnon (Mark dot McKinnon at gmail dot com)
+- __Minimum Autopsy version:__ 4.4.0
+- __OS's supported on: Windows, Linux
+- __Module Location__: https://github.com/markmckinnon/Autopsy-Plugins/tree/master/Create_Datasource_Hashset
+- __Website:__ https://github.com/markmckinnon/Autopsy-Plugins/tree/master/Create_Datasource_Hashset
+- __Source Code:__ https://github.com/markmckinnon/Autopsy-Plugins/tree/master/Create_Datasource_Hashset
+- __License:__ GNU General Public License Version 3
