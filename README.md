@@ -2,7 +2,7 @@
 
 This repository contains the 3rd party Autopsy add-on modules.  You have two choices for using it.
 
-1. Make a copy of this repository by downloading a ZIP file of it.  You can do this by clicking on "Clone or download" and then "Download ZIP. 
+1. Make a copy of this repository by downloading a ZIP file of it.  You can do this by clicking on "Clone or download" and then "Download ZIP". 
 ![Download Image](images/download.png) 
 
 2. You can download specific modules from the site.  This is easier for Java NBM modules than it is for Python modules, which may contain a number of files. 
@@ -13,7 +13,7 @@ The modules are organized by their type.
 - Report modules run at the end of the analysis and can generate various types of reports (or can do various types of analysis).
 - Data source processors allow for different types of data sources to be added to a case. 
 
-Each module has its ownn folder with a README.md file that outlines the basics of what the module does. 
+Each module has its own folder with a README.md file that outlines the basics of what the module does. 
 
 Instructions for installing a module can be found here: http://sleuthkit.org/autopsy/docs/user-docs/4.9.0/module_install_page.html
 

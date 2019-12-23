@@ -1,0 +1,8 @@
+- __Description:__ Parse the information in the Recycle Bin from WIndows Vista and above.
+- __Author:__ Mark McKinnon (Mark dot McKinnon at gmail dot com)
+- __Minimum Autopsy version:__ 4.4.0
+- __OS's supported on: Windows, Linux
+- __Module Location__: https://github.com/markmckinnon/Autopsy-Plugins/tree/master/Recycle_Bin
+- __Website:__ https://github.com/markmckinnon/Autopsy-Plugins/tree/master/Recycle_Bin
+- __Source Code:__ https://github.com/markmckinnon/Autopsy-Plugins/tree/master/Recycle_Bin
+- __License:__ GNU General Public License Version 3

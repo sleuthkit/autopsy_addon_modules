@@ -1,0 +1,8 @@
+- __Description:__ Create a VHD image of user defined file extensions that can then be brought back into Autopsy.
+- __Author:__ Mark McKinnon (Mark dot McKinnon at gmail dot com)
+- __Minimum Autopsy version:__ 4.4.0
+- __OS's supported on: Windows
+- __Module Location__: https://github.com/markmckinnon/Autopsy-Plugins/tree/master/Create_Preview_Data_Container
+- __Website:__ https://medium.com/@markmckinnon_80619/acreating-a-data-preview-container-in-autopsy-afbdf776d7c4
+- __Source Code:__ https://github.com/markmckinnon/Autopsy-Plugins/tree/master/Create_Preview_Data_Container
+- __License:__ GNU General Public License Version 3

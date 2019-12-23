@@ -1,0 +1,8 @@
+- __Description:__ Parse the Thumbcache from Windows Vista and above and add the files as dervived files.
+- __Author:__ Mark McKinnon (Mark dot McKinnon at gmail dot com)
+- __Minimum Autopsy version:__ 4.4.0
+- __OS's supported on: Windows
+- __Module Location__: https://github.com/markmckinnon/Autopsy-Plugins/tree/master/Thumbcache_parser
+- __Website:__ https://github.com/markmckinnon/Autopsy-Plugins/tree/master/Thumbcache_parser
+- __Source Code:__ https://github.com/markmckinnon/Autopsy-Plugins/tree/master/Thumbcache_parser
+- __License:__ GNU General Public License Version 3

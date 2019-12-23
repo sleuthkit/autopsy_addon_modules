@@ -1,0 +1,8 @@
+- __Description:__ This plugin will parse the Jump List Auto Destinations. 
+- __Author:__ Mark McKinnon - Mark dot McKinnon at Gmail dot Com
+- __Minimum Autopsy version:__ 4.1.0
+- __OS's supported on: Windows, Linux
+- __Module Location__: https://github.com/markmckinnon/Autopsy-Plugins/tree/master/Jump_List_AD
+- __Website:__  https://github.com/markmckinnon/Autopsy-Plugins/tree/master/Jump_List_AD
+- __Source Code:__  https://github.com/markmckinnon/Autopsy-Plugins/tree/master/Jump_List_AD
+- __License:__ GPL Full license can be found in jump_list_AD_py_GPL_License.txt 

@@ -1,0 +1,8 @@
+- __Description:__ Finds all time based artifacts and sends them to a Timesketch server
+- __Author:__ Mark McKinnon (Mark dot McKinnon at gmail dot com)
+- __Minimum Autopsy version:__ 4.4.0
+- __OS's supported on: Windows, Linux
+- __Module Location__: https://github.com/markmckinnon/Autopsy-Plugins/tree/master/Timesketch
+- __Website:__ https://github.com/markmckinnon/Autopsy-Plugins/tree/master/Timesketch
+- __Source Code:__ https://github.com/markmckinnon/Autopsy-Plugins/tree/master/Timesketch
+- __License:__ GNU General Public License Version 3

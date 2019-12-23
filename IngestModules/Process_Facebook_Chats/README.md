@@ -1,0 +1,8 @@
+- __Description:__ Parse Facbook Windows app chat's
+- __Author:__ Mark McKinnon (Mark dot McKinnon at gmail dot com)
+- __Minimum Autopsy version:__ 4.4.0
+- __OS's supported on: Windows
+- __Module Location__: https://github.com/markmckinnon/Autopsy-Plugins/tree/master/Process_Facebook_Chats
+- __Website:__ https://github.com/markmckinnon/Autopsy-Plugins/tree/master/Process_Facebook_Chats
+- __Source Code:__ https://github.com/markmckinnon/Autopsy-Plugins/tree/master/Process_Facebook_Chats
+- __License:__ GNU General Public License Version 3

@@ -1,0 +1,7 @@
+- __Description:__ Parse email with an EML file extension
+- __Minimum Autopsy version:__ 4.4.0
+- __OS's supported on: Windows, Linux
+- __Module Location__: https://github.com/markmckinnon/Autopsy-Plugins/tree/master/EML_Parser
+- __Website:__ https://github.com/markmckinnon/Autopsy-Plugins/tree/master/EML_Parser
+- __Source Code:__ https://github.com/markmckinnon/Autopsy-Plugins/tree/master/EML_Parser
+- __License:__ GNU General Public License Version 3
