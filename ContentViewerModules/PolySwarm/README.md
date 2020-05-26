@@ -1,0 +1,6 @@
+- __Description:__ Perform hash lookups and file scans on PolySwarm via right click menu on files.
+- __Author:__ PolySwarm Developers
+- __Minimum Autopsy version:__ 4.8.0
+- __Current Source Code and Releases:__ https://github.com/polyswarm/autopsy-module/releases
+- __Original Source Code:__ https://github.com/polyswarm/autopsy-module
+- __License:__ MIT
