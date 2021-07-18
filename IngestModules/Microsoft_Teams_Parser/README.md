@@ -1,0 +1,13 @@
+- __Description:__ The plugin enumerates Microsoft Teams LevelDB database and extracts information such as:
+	- Call data
+	- Messages (chats, posts and comments) and their attachments
+	- Reactions for posts and messages
+    - Calendar entries
+    - Contacts
+- __Author:__ Alexander Bilz
+- __Minimum Autopsy version:__ 4.18.0
+- __OS's supported on: Windows
+- __Module Location__: https://github.com/lxndrblz/forensicsim/
+- __Website:__ https://forensics.im
+- __Source Code:__ https://github.com/lxndrblz/forensicsim/
+- __License:__ MIT License
