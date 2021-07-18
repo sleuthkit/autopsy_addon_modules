@@ -1,7 +1,7 @@
-- __Description:__ The plugin enumerates Microsoft Teams LevelDB database and extracts information such as:
+- __Description:__ This plugin enumerates Microsoft Teams LevelDB database and extracts information such as:
 	- Call data
-	- Messages (chats, posts and comments) and their attachments
-	- Reactions for posts and messages
+	- Messages (chats, posts and comments) and their attachments, such as SharePoint links for files and hyperlinks
+	- Reactions for messages
     - Calendar entries
     - Contacts
 - __Author:__ Alexander Bilz
