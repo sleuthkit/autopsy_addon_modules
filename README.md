@@ -1,4 +1,4 @@
-# Autopsy 3rd Party Module Repository
+# Autopsy Add-on Modules
 
 This repository contains the 3rd party add-on modules to the [Autopsy Digital Forensics Platform](http://www.autopsy.com). Each module has a folder in the repository that contains a README file. Some of the modules are stored in this repository and others are hosted on another site with a link in its README.
 
