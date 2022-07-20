@@ -1,0 +1,5 @@
+- __Description:__ A module package containing a Data Content Viewer. Allows the user to view individual Prefetch (*.pf) files from a windows system.
+- __Author:__ Mark McKinnon
+- __Minimum Autopsy version:__ 4.18.0
+- __Source Code:__ https://github.com/markmckinnon/Autopsy-NBM-Plugins/tree/main/Prefetch_File_Viewer
+- __License:__ Apache V2.0 License
