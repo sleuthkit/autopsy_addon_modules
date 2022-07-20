@@ -1,0 +1,5 @@
+- __Description:__ A module package containing a Data Content Viewer. Allows the user to view individual Link (*.lnk) files from a windows system.
+- __Author:__ Mark McKinnon
+- __Minimum Autopsy version:__ 4.16.0
+- __Source Code:__ https://github.com/markmckinnon/Autopsy-NBM-Plugins/tree/main/LNK_File_Viewer
+- __License:__ Apache V2.0 License
