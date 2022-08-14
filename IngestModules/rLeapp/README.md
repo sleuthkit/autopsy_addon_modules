@@ -1,0 +1,8 @@
+- __Description:__ Process Returns and Archives using rLeapp program
+- __Author:__ Mark McKinnon (Mark dot McKinnon at gmail dot com)
+- __Minimum Autopsy version:__ 4.18.0
+- __OS's supported on: Windows
+- __Module Location__: https://github.com/markmckinnon/Autopsy-NBM-Plugins/tree/main/rLeapp-Autopsy-Plugin
+- __Website:__ https://github.com/markmckinnon/Autopsy-NBM-Plugins/tree/main/rLeapp-Autopsy-Plugin
+- __Source Code:__ https://github.com/markmckinnon/Autopsy-NBM-Plugins/tree/main/rLeapp-Autopsy-Plugin
+- __License:__ Apache 2.0 License
