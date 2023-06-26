@@ -1,5 +1,5 @@
 - __Description:__ Analyzes video files and displays a series of images so that you can get a basic idea of what the video contains without viewing the entire thing.
 - __Author:__ Basis Technology
 - __Minimum Autopsy version:__ 3.0.7
-- __Module Location__: http://www.basistech.com/digital-forensics/autopsy/video-triage/
+- __Module Location__: https://www.autopsy.com/add-on-modules/video-triage/
 - __License:__ Closed source
