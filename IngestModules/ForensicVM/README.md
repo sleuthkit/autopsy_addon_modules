@@ -1,0 +1,7 @@
+- __Description:__ The Autopsy ForensicVM client is an innovative tool designed to streamline the process of digital forensics. It leverages advanced virtualization technology to enable secure and efficient analysis of forensic images. The client is specifically developed for cybersecurity professionals, digital forensics investigators, and information security teams.
+- __Author:__ Nuno Mourinho (nuno.mourinho+forensicVM@gmail.com)
+- __Minimum Autopsy version:__ 4.20.0
+- __Module Location__: https://github.com/nunomourinho/AutopsyForensicVM/releases/tag/v1.0.2
+- __Website:__ https://forensicvm-autopsy-plugin-user-manual.readthedocs.io/en/latest/
+- __Source Code:__ https://github.com/nunomourinho/AutopsyForensicVM
+- __License:__  EUPL-1.2 license
