@@ -3,4 +3,4 @@
 - __Minimum Autopsy version:__ 3.0.7
 - __Source Code:__ https://bitbucket.org/psychodeath/fea-forensics-enhanced-analysis
 - __License:__ Open source
-- __Vidoe:__ https://vimeo.com/237483225
+- __Video:__ https://vimeo.com/237483225
