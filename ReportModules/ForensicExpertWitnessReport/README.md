@@ -1,3 +1,5 @@
+- __Known Issue:__ This module will cause Autopsy to lose its Tools menu (April 2020).
+
 - __Description:__ Adds tagged evidence into structured and styled tables automatically and directly inside a forensic expert witness report, whilst coming with three pre-existing forensic expert witness report templates to choose from. 
 - __Author:__ Chris Wipat
 - __Minimum Autopsy version:__ : 3.0.7

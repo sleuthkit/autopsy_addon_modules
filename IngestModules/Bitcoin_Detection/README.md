@@ -1,0 +1,6 @@
+- __Description:__ Module can detect the traces of Electrum, Ledger Live app, bitaddress.org and Ledger Nano X connection (USB; Bluetooth) at Windows 10 systems
+- __Author:__ dgo-berlin (https://github.com/dgo-berlin)
+- __Minimum Autopsy version:__ 4.19.2
+- __Module Location__: https://github.com/dgo-berlin/bitcoin_usage_detection_autopsy_plugin/blob/master/BitcoinDetection/build/org-bitcoin-detection.nbm
+- __Website:__ https://github.com/dgo-berlin/bitcoin_usage_detection_autopsy_plugin/
+- __Source Code:__ https://github.com/dgo-berlin/bitcoin_usage_detection_autopsy_plugin/tree/master/BitcoinDetection/src
