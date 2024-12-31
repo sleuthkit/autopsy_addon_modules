@@ -1,0 +1,7 @@
+- __Description:__ Module for malware scanning using ClamAV antivirus.
+- __Author:__ Askar Dyussekeyev
+- __Minimum Autopsy version:__ 4.19.3
+- __Module Location__: https://github.com/dyussekeyev/ClamPsy/releases
+- __Website:__ https://github.com/dyussekeyev/ClamPsy/blob/main/README.md
+- __Source Code:__ https://github.com/dyussekeyev/ClamPsy
+- __License:__ MIT License

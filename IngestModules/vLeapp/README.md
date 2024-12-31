@@ -1,0 +1,8 @@
+- __Description:__ Process Vehicle data using vLeapp program
+- __Author:__ Mark McKinnon (Mark dot McKinnon at gmail dot com)
+- __Minimum Autopsy version:__ 4.18.0
+- __OS's supported on: Windows
+- __Module Location__: https://github.com/markmckinnon/Autopsy-NBM-Plugins/tree/main/vLeapp-Autopsy-Plugin
+- __Website:__ https://github.com/markmckinnon/Autopsy-NBM-Plugins/tree/main/vLeapp-Autopsy-Plugin
+- __Source Code:__ https://github.com/markmckinnon/Autopsy-NBM-Plugins/tree/main/vLeapp-Autopsy-Plugin
+- __License:__ Apache 2.0 License

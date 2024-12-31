@@ -1,0 +1,7 @@
+- __Description:__ Analyze Registry Hives based on bookmarks provided by EricZimmerman for his tool RegistryExplorer.
+- __Author:__ Mohammed Hasan (0xmohammedhassan@gmail.com)
+- __Minimum Autopsy version:__ 4.19.3
+- __Module Location__: https://github.com/0xMohammed/Autopsy-Registry-Explorer/releases/download/v0.1Beta/RegistryExplorerv0.2Beta.zip
+- __Website:__ https://github.com/0xMohammed/Autopsy-Registry-Explorer
+- __Source Code:__ https://github.com/0xMohammed/Autopsy-Registry-Explorer
+- __License:__ GNU General Public License v3.0
