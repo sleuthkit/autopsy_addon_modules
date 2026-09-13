@@ -1,0 +1,8 @@
+- __Description:__ Flags possibly encrypted files by byte entropy, using Min entropy in place of the Shannon entropy that Autopsy's built-in detector uses. Min entropy depends only on the most frequent byte value, so structured files such as PDFs and SQLite databases, which a Shannon test at 6.0 bits/byte reports as false positives, stay clear while ciphertext is still flagged. Computes Shannon, Min, Rényi and Collision entropy for every file and records all four values in the Encryption Suspected result; the measure, threshold and other options are configurable. Python module.
+- __Author:__ David Gary (https://github.com/david-gary)
+- __Minimum Autopsy version:__ 4.19.0 (tested with 4.23.1)
+- __OS's supported on:__ Windows, Linux, macOS
+- __Module Location__: https://github.com/david-gary/expanded_entropy/tree/main/ExpandedEntropy
+- __Website:__ https://github.com/david-gary/expanded_entropy
+- __Source Code:__ https://github.com/david-gary/expanded_entropy
+- __License:__ MIT License
