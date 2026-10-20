@@ -1,0 +1,7 @@
+- __Description:__ Uses Onnx detector to find objects in a image.
+- __Author:__ Thomas Clarke
+- __Minimum Autopsy version:__ 4.23.1
+- __Module Location__: https://github.com/TDClarke/ObjectDetectorOnnx/
+- __Website:__ https://github.com/TDClarke/ObjectDetectorOnnx/
+- __Source Code:__ https://github.com/TDClarke/ObjectDetectorOnnx/
+- __License:__ Unknown
