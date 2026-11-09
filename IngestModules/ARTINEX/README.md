@@ -1,0 +1,7 @@
+- **Description:** An Autopsy ingest module for analyzing forensic artifacts from six LLM applications and web services (ChatGPT Desktop/Web, Claude Desktop/Web, Gemini Web, and LM Studio). Integrates reconstructed user activities and recovered conversations into Autopsy Blackboard, Timeline, and Reports.
+- **Author:** WHS4-Erelem
+- **Minimum Autopsy version:** 4.23.1
+- **Module Location:** https://github.com/WHS4-Erelem/LLM_Forensic_Parser/releases/tag/artinex-autopsy-v0.4.2
+- **Website:** https://github.com/WHS4-Erelem/LLM_Forensic_Parser/blob/main/Autopsy_Addon/README.md
+- **Source Code:** https://github.com/WHS4-Erelem/LLM_Forensic_Parser
+- **License:** [AGPL-3.0-or-later](https://github.com/WHS4-Erelem/LLM_Forensic_Parser/blob/main/LICENSE)
