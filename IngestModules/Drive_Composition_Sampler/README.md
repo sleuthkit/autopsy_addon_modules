@@ -1,0 +1,8 @@
+- __Description:__ Says what a disk image holds without reading all of it. A data source ingest module that reads a random sample of blocks straight from the image (10,000 by default), labels each block as blank, other, MP3, JPEG, Huffman-coded or random-like, and reports each label's share with a 95% interval and the size it comes to: for the allocated and the unallocated space of each file system, each volume with no file system, the space outside any file system, and the image as a whole. Around the random-like blocks of the sample that lie in unallocated space or outside any file system, it finds where each run of random-like data begins and ends, and adds each run of 1 MiB or more to the case as a file with an Encryption Suspected result. This is what a deleted or hidden encrypted container leaves behind, and what detectors that work file by file do not see. Implements the random sampling method of Garfinkel, Nelson, White and Roussev (Digital Investigation, 2010). Python module.
+- __Author:__ David Gary (https://github.com/david-gary)
+- __Minimum Autopsy version:__ 4.19.0 (tested with every release from 4.19.0 to 4.23.1)
+- __OS's supported on:__ Windows (tested); Linux and macOS not tested
+- __Module Location__: https://github.com/david-gary/drive_composition_sampler/releases/latest (unzip DriveCompositionSampler-1.0.0.zip into python_modules)
+- __Website:__ https://github.com/david-gary/drive_composition_sampler
+- __Source Code:__ https://github.com/david-gary/drive_composition_sampler
+- __License:__ MIT License
